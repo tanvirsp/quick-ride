@@ -1,0 +1,17 @@
+.thumbnail {
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    margin: 20px 0px;
+    padding: 15px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.thumbnail img {
+    height: 60px;
+}
+.thumbnail h3 {
+    font-size: 22px;
+}

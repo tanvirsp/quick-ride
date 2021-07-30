@@ -1,0 +1,73 @@
+.register-section {
+    text-align: center;
+    width: 100%;
+    text-align: center;
+
+}
+.form-container {
+    width: 450px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 30px 45px;
+   text-align: center;
+    
+}
+
+.forn-title {
+    text-align: left;
+    color: black;
+    margin-bottom: 45px;
+}
+
+.form-container input[type=text], [type=password] {
+    padding: 7px;
+    width: 100%;
+    border: none;
+    display: block;
+    border-bottom: 1px solid gray;
+    background-color: rgba(255, 255, 255, 0);
+    margin-bottom: 12px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.login-btn {
+    
+    padding: 8px;
+    background-color:#f47c20 ;
+    border: none;
+    margin: 8px auto;
+    width: 100%;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+.login-btn:hover {
+    background-color:#ca6111 ;
+}
+
+.other-login-btn {
+    display: block;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 25px;;
+    width: 300px;
+    background-color: rgba(128, 128, 128, 0);
+    margin: 8px  auto;
+}
+
+.other-login-btn:hover {
+    background-color:#ca6111 ;
+    border: none;
+    color: white;
+
+}
+
+.signin-up {
+    text-decoration: underline;
+    font-weight: bold;
+    cursor: pointer;
+}

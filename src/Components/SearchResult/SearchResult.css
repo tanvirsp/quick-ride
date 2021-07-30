@@ -1,0 +1,18 @@
+.search-result {
+    background-color: #f47c20;
+    padding: 25px;
+    color: white;
+    border-radius: 10px;
+}
+
+.search-result h4 {
+    font-size: 17px;
+    color: white;
+    font-weight: 400;
+}
+.high-light {
+    font-size: 25px;
+    font-weight: 600;
+
+}
+

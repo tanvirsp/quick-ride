@@ -1,0 +1,22 @@
+.custom-card {
+    background-color: white;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    margin: 10px 0; 
+    padding: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+}
+.custom-card img {
+    height: 150px;
+    margin-bottom: 35px;
+    transition: transform 700ms;
+}
+
+.custom-card:hover img  {
+    transform: translateY(-15px);
+}
