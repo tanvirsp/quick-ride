@@ -4,7 +4,7 @@ This app is for Ride sharing. You can selecte your Vhicle for riding like Bike, 
 Also you can select you destination with date.
 Live Project [https://quick-ride.netlify.app/]
 
-## Deatil
+## Project Details
 - This is made by react
 - Firebase Authentication
 - Live on netlify.app
